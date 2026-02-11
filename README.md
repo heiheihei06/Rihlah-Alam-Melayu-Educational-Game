@@ -39,7 +39,7 @@ Dalam pengembangan proyek ini, saya mengimplementasikan berbagai kompetensi yang
 
 ## 📥 Instalasi (Android APK)
 Anda dapat mencoba langsung pengalaman belajar ini melalui perangkat Android:
-1. Unduh file APK di sini: [**Download Rihlah_Alam_Melayu.apk**]https://drive.google.com/file/d/1tUocxstI2RF3KfkuEe3MDtnpmDfXxRtG/view?usp=sharing
+1. Unduh file APK di sini: [**Download Rihlah_Alam_Melayu.apk**](https://drive.google.com/file/d/1tUocxstI2RF3KfkuEe3MDtnpmDfXxRtG/view?usp=sharing)
 2. Instal di perangkat Anda (Pastikan mengizinkan instalasi dari sumber tidak dikenal).
 3. Jalankan game dan mulai petualangan Anda!
 
